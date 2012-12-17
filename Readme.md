@@ -1,4 +1,3 @@
-
 # pin.css
 
   class-based absolute positioning
@@ -9,9 +8,8 @@
 
 ## API
 
-  8 Available classes (16 counting aliaes):
-
-  ```
+  class name | alias
+  -----------|-------
   .pin-ne | .pin-tl
   .pin-n  | .pin-t
   .pin-nw | .pin-tr
@@ -20,7 +18,7 @@
   .pin-s  | .pin-b
   .pin-se | .pin-bl
   .pin-e  | .pin-l
-  ```
+
 
 ## License
 
