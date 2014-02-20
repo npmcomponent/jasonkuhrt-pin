@@ -1,0 +1,14 @@
+{
+  "name": "jasonkuhrt-pin",
+  "description": "Class-based absolute positioning",
+  "version": "0.0.1",
+  "keywords": [
+    "css",
+    "absolute positioning"
+  ],
+  "styles": [
+    "pin.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
